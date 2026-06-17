@@ -1,0 +1,6 @@
+{
+  "name": "Children's Academy Quiz",
+  "description": "Discover whether your child is more likely to enjoy Programming or Robotics with this interactive quiz designed for Egyptian parents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
